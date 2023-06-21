@@ -747,6 +747,12 @@ module.exports = {
               "label": "Kriptonio",
               "target": "_blank",
               "rel": null
+            },
+            {
+              "href": "https://chain49.com/",
+              "label": "Chain49",
+              "target": "_blank",
+              "rel": null
             }
           ]
         },
